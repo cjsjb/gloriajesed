@@ -1,5 +1,6 @@
 \context ChordNames
 	\chords {
+	\set chordChanges = ##t
 	% intro
 	a1 g1 a1 g1
 
