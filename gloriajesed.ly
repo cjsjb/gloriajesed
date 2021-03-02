@@ -30,9 +30,11 @@ globalTempo = {
 	\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "gloriajesed-acordes.inc"
-		\include "gloriajesed-soprano.inc"
-		%\include "gloriajesed-tenor.inc"
-		\include "gloriajesed-tenor.inc"
+		\new StaffGroup <<
+			\include "gloriajesed-soprano.inc"
+			\include "gloriajesed-mezzo.inc"
+			\include "gloriajesed-tenor.inc"
+		>>
 	>>
 
 	\layout { }
