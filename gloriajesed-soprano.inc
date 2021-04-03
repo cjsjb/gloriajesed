@@ -12,7 +12,7 @@
 
 		\time 4/4
 		\clef "treble"
-		\key a \major
+		\key d \major
 
 		R1*6  |
 		cis'' 2 cis''  |

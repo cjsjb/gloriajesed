@@ -12,7 +12,7 @@
 
 		\time 4/4
 		\clef "treble_8"
-		\key a \major
+		\key d \major
 
 		R1*4  |
 %% 5
