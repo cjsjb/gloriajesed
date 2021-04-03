@@ -15,93 +15,93 @@
 		\key a \major
 
 		R1*6  |
-		cis'' 2 cis''  |
-		d'' 4 cis'' b' cis''  |
-		a' 2 e'  |
+		a' 2 a'  |
+		g' 4 fis' d' fis'  |
+		e' 2 cis'  |
 %% 10
 		R1  |
-		e' 2 e' 4 e'  |
-		g' 4 fis' 8 e' d' 4 fis'  |
-		e' 1  |
+		cis' 2 cis' 4 cis'  |
+		d' 4 cis' 8 b a 4 cis'  |
+		a 1  |
 		R1  |
 %% 15
-		cis'' 2 cis''  |
-		d'' 4 cis'' b' cis''  |
-		a' 2 e'  |
+		a' 2 a'  |
+		g' 4 fis' d' fis'  |
+		e' 2 cis'  |
 		R1  |
-		e' 2 e' 4 e'  |
+		cis' 2 cis' 4 cis'  |
 %% 20
-		g' 4 fis' 8 e' d' 4 fis'  |
-		e' 2. r8 r  |
-		a' 4 a' 8 a' 4 a' r8  |
-		g' 4 g' 8 g' 4 g' r8  |
-		a' 8 a' a' a' 4 a' r8  |
+		d' 4 d' 8 d' d' 4 d'  |
+		c' 2. r8 g  |
+		cis' 4 cis' 8 cis' 4 cis' r8  |
+		c' 4 c' 8 c' 4 c' g 8  |
+		cis' 8 cis' cis' cis' 4 cis' r8  |
 %% 25
 		R1*2  |
-		cis'' 2 cis'' 4 cis''  |
-		d'' 4 cis'' b' cis''  |
-		a' 4 e' 8 e' 4 e' ~ e' 8 ~  |
-%% 30
-		e' 2 r  |
-		e' 2 e'  |
+		a' 2 a' 4 a'  |
 		g' 4 fis' d' fis'  |
-		e' 2. r4  |
-		b' 4 a' 8 g' 4 g' d' 8  |
+		e' 4 cis' 8 cis' 4 cis' ~ cis' 8  |
+%% 30
+		R1  |
+		cis' 2 cis'  |
+		d' 4 cis' a cis'  |
+		a 2. r4  |
+		g' 4 fis' 8 d' 4 a a 8  |
 %% 35
-		a' 4 a' 8 b' cis'' b' a' 4  |
-		b' 4 a' 8 g' 4 g' d' 8  |
-		a' 4 a' 8 b' cis'' b' a' 4  |
-		b' 4 r b' 8 a' g' 4  |
-		a' 2 a' ~  |
+		e' 4 e' 8 fis' a' fis' e' 4  |
+		g' 4 fis' 8 d' 4 a a 8  |
+		fis' 4 fis' 8 fis' fis' fis' fis' 4  |
+		g' 4 r g' 8 g' g' 4  |
+		e' 2 e' ~  |
 %% 40
-		a' 2. r4  |
+		e' 2. r4  |
 		r4 a' 8 a' a' a' a' a'  |
 		g' 8 g' g' g' 4 g' r8  |
-		fis' 4 fis' 8 fis' 4 e' 8 d' 4  |
-		e' 2 e'  |
+		d' 4 d' 8 d' 4 d' 8 d' 4  |
+		cis' 2 cis'  |
 %% 45
 		r4 a' 8 a' a' a' a' a'  |
-		g' 8 g' g' g' 4 g' g' 8  |
-		fis' 4 fis' e' d'  |
-		e' 8 e' e' 2.  |
+		g' 8 g' g' g' 4 g' d' 8  |
+		d' 4 d' d' d'  |
+		c' 8 c' c' 2.  |
 		r4 e' 8 e' e' e' e' e'  |
 %% 50
 		g' 8 g' g' g' 4 g' r8  |
-		fis' 4 fis' 8 fis' 4 e' 8 d' 4  |
-		e' 2 e' ~  |
-		e' 2 r4 e' 8 e'  |
-		a' 4 b' 8 cis'' 4. a' 4  |
+		d' 4 d' 8 d' 4 d' 8 d' 4  |
+		cis' 2 cis' ~  |
+		cis' 2 r4 a 8 a  |
+		fis' 4 gis' 8 a' 4. fis' 4  |
 %% 55
-		b' 4 a' 8 g' 4 g' r8  |
-		a' 8 a' a' b' cis'' b' a' 4  |
-		b' 4 a' 8 g' 4 g' r8  |
-		a' 4 a' 8 b' cis'' b' a' 4  |
-		b' 4 b' 8 b' b' a' g' 4  |
+		g' 4 fis' 8 d' 4 a r8  |
+		e' 8 e' e' fis' a' fis' e' 4  |
+		g' 4 fis' 8 d' 4 d' r8  |
+		fis' 4 fis' 8 fis' fis' fis' fis' 4  |
+		g' 4 g' 8 g' g' g' g' 4  |
 %% 60
-		a' 2 a' ~  |
-		a' 2 r  |
+		e' 2 e' ~  |
+		e' 2 r  |
 		R1*2  |
-		cis'' 2 cis''  |
+		a' 2 a'  |
 %% 65
-		d'' 4 cis'' b' cis''  |
-		a' 2 e'  |
+		g' 4 fis' d' fis'  |
+		e' 2 cis'  |
 		R1  |
-		e' 2 e' 4 e'  |
-		g' 4 fis' 8 e' d' 4 fis'  |
+		cis' 2 cis' 4 cis'  |
+		d' 4 cis' 8 b a 4 cis'  |
 %% 70
-		e' 1  |
+		a 1  |
 		R1  |
-		cis'' 2 cis''  |
-		d'' 4 cis'' b' cis''  |
-		a' 2 e'  |
+		a' 2 a'  |
+		g' 4 fis' d' fis'  |
+		e' 2 cis'  |
 %% 75
 		R1  |
-		e' 2 e' 4 e'  |
-		g' 4 fis' 8 e' d' 4 fis'  |
-		a' 1  |
-		b' 1  |
+		cis' 2 cis' 4 cis'  |
+		d' 4 d' 8 d' d' 4 d'  |
+		fis' 1  |
+		g' 1  |
 %% 80
-		a' 1  |
+		e' 1  |
 		R1  |
                 \bar "|."
 	}
@@ -113,21 +113,21 @@
 		y en la tie -- "rra a" los hom -- bres paz.
 
 		"...Te" ben -- de -- ci -- mos,
-		"te a" -- do -- ra -- mos, te glo -- ri -- fi %-- ca -- mos.
-		Te da -- mos gra -- cias por "Tu in" -- men -- sa glo -- ria
+		"te a" -- do -- ra -- mos, te glo -- ri -- fi -- ca -- mos.
+		Te da -- mos gra -- cias por "Tu in" -- men -- sa glo -- ria __
 		Se -- ñor, Dios, rey ce -- les -- tial.
 
 		%Dios Pa -- dre to -- do
 		                         po -- de -- ro -- so,
 		Se -- ñor, Hi -- jo ú -- ni -- co Je -- su -- cris -- to,
-		Se -- ñor Dios, Cor -- de -- ro de Dios, Hi -- jo del Pa -- dre.
+		Se -- ñor Dios, Cor -- de -- ro de Dios, Hi -- jo del Pa -- dre. __
 
 		Tú que qui -- tas el pe -- ca -- do del mun -- do,
 		ten pie -- dad de no -- so -- tros.
 		Tú que qui -- tas el pe -- ca -- do del mun -- do,
 		a -- tien -- "de a" nues -- tra sú -- pli -- ca.
 		Tú "que es" -- tás a la de -- re -- cha del Pa -- dre,
-		ten pie -- dad de no -- so -- tros.
+		ten pie -- dad de no -- so -- tros. __
 
 		Por -- que so -- la -- men -- te "Tú e" -- res san -- to,
 		só -- lo Tú, al -- tí -- si -- mo, Je -- su cris -- to.
@@ -135,7 +135,7 @@
 
 		Glo -- ria a Dios en el cie -- lo
 		y en la tie -- "rra a" los hom -- bres paz.
-		Glo -- ria a Dios en el cie -- lo __
+		Glo -- ria a Dios en el cie -- lo
 		y en la tie -- "rra a" los hom -- bres paz.
 
 		A -- mén.
