@@ -111,7 +111,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "tenor" {
 		Glo -- ria a Dios en el cie -- lo __
 		y en la tie -- "rra a" los hom -- bres paz.
 		Glo -- ria a Dios en el cie -- lo __

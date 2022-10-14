@@ -106,7 +106,7 @@
                 \bar "|."
 	}
 
-	\lyricsto "soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "soprano" {
 		Glo -- ria a Dios en el cie -- lo
 		y en la tie -- "rra a" los hom -- bres paz.
 		Glo -- ria a Dios en el cie -- lo
